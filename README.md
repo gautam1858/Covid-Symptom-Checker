@@ -2,7 +2,7 @@ Covid-19 Symptom Checker
 =================
 Covid-19 Symptom Checker WebApp
 
-![Covid](covid.png =250*250)
+![Covid](covid.png|width=100)
 
 Providing a interactive dashboard to check possiblity of Corona Virus Disease (Covid-19, nCov19, Coronavirus SARS-CoV-2), using Flask.
 
